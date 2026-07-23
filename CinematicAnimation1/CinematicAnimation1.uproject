@@ -14,14 +14,6 @@
 		{
 			"Name": "MovieRenderPipeline",
 			"Enabled": true
-		},
-		{
-			"Name": "VC_Tonemapper_Toolkit",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/Fab/product/29a328ed-3413-41ea-8f46-308cddc19f87",
-			"SupportedTargetPlatforms": [
-				"Win64"
-			]
 		}
 	]
 }
